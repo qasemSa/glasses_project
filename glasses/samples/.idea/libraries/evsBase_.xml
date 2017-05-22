@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="evsBase-">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/f9acdf65fd6b7b8a226df30134400ea34a800efc/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/f9acdf65fd6b7b8a226df30134400ea34a800efc/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
